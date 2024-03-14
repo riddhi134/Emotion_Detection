@@ -7,3 +7,5 @@ To use Emotion Detection Model
 3. run the gui.py file
 4. upload the image in the gui
 5. click on the Detect button to detect the emotion.
+
+   If you want the code go to my keggle profile: https://www.kaggle.com/code/riddhisuthar/emotion-detection-model/edit
